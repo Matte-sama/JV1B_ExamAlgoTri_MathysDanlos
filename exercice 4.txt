@@ -1,0 +1,4 @@
+le principe tu tri à bulles est simple, cependant cet algorithme est également considéré comme le plus lent et à juste titre. En effet celui-ci pour arriver au 
+résultat final, exécute énormément d'échange et nécessite de comparer chaques valeurs une par une ce qui à un fort impact sur sa rapidité.
+Ainsi le temps que prendra cet algorithme pour effectuer le tri sera proportionnel au nombre de valeurs présent dans le tableau. 
+à noté que l'on préferera le tri par sélection bien plus rapide et qui est aussi simple et efficace. 
